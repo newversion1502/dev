@@ -1,0 +1,25 @@
+Stack is one of the data, it follows LIFO approach ( Last In First Out) and it is a linear data structure
+Stack functions: 
+push: insert the element in stack
+pop: remove the element from stack
+peek: in java we can find top element of stack with the help of peek() function but in c++ this function is known as top() function.
+
+================================================================================================
+                                Stack Syntax
+================================================================================================
+1: How to implement stack
+
+Implement stack using Array, Array List, Linked Lisr:
+=> array size is fixed.
+=> last index of array is called peek element.
+
+Implement stack using ArrayList:
+=> size vary
+
+Implement Stack using LinkedList:
+=> In Linked List there is no fixed size
+
+
+2: Stack using LinkedList:
+
+    
